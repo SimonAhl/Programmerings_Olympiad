@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\progUpp\bin\Debug\net5.0\progUpp.exe
+C:\Users\Admin\Desktop\progUpp\bin\Debug\net5.0\progUpp.deps.json
+C:\Users\Admin\Desktop\progUpp\bin\Debug\net5.0\progUpp.runtimeconfig.json
+C:\Users\Admin\Desktop\progUpp\bin\Debug\net5.0\progUpp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\progUpp\bin\Debug\net5.0\progUpp.dll
+C:\Users\Admin\Desktop\progUpp\bin\Debug\net5.0\ref\progUpp.dll
+C:\Users\Admin\Desktop\progUpp\bin\Debug\net5.0\progUpp.pdb
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.dll
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\ref\progUpp.dll
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.pdb
+C:\Users\Admin\Desktop\progUpp\obj\Debug\net5.0\progUpp.genruntimeconfig.cache
